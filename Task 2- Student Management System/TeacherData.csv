@@ -1,0 +1,16 @@
+TeacherID,Name,Role,AssignedSections,Subjects,MentorRollNoRange,Username,Password
+T001,Dr. Kavita Sharma,HOD,All,All,NA,HOD_DS,hod@123
+T002,Rajesh Mehta,Coordinator,DS-A,NA,131-140,COORD_A,coord@A
+T003,Sunita Iyer,Coordinator,DS-B,NA,NA,COORD_B,coord@B
+T004,Manoj Verma,Coordinator,DS-C,NA,NA,COORD_C,coord@C
+T005,Priya Nair,Coordinator,DS-D,NA,NA,COORD_D,coord@D
+T006,Anil Kumar,Teacher,DS-A & C,Python,101-115,TCHR_PYC,pyc@123
+T007,Neha Gupta,Teacher,DS-B & D,Python,141-155,TCHR_PYBD,pybd@123
+T008,Arjun Rao,Teacher,DS-A & C,DBMS,116-130,TCHR_DBAC,dbac@123
+T009,Kiran Desai,Teacher,DS-B & D,DBMS,156-170,TCHR_DBBD,dbbd@123
+T010,Meena Sharma,Teacher,DS-A & C,Statistics,181-195,TCHR_STAC,stac@123
+T011,Vivek Joshi,Teacher,DS-B & D,Statistics,196-210,TCHR_STBD,stbd@123
+T012,Sanjay Kapoor,Teacher,DS-A & C,FODS,211-225,TCHR_FOAC,foac@123
+T013,Pooja Patel,Teacher,DS-B & D,FODS,226-240,TCHR_FOBD,fobd@123
+T014,Deepak Malhotra,Teacher,DS-A & C,HPC,241-255,TCHR_HPAC,hpac@123
+T015,Anita Reddy,Teacher,DS-B & D,HPC,256-270,TCHR_HPBD,hpbd@123

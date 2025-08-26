@@ -1,0 +1,161 @@
+UniqueID,RollNo,Name,Section,Semester,MentorID,CoordinatorID,AttPython,AttDbms,AttStats,AttFods,AttHpc,AsgPython,AsgDbms,AsgStats,AsgFods,AsgHpc,CGPA,Skills,TotalAttendance
+DSA001,101,Sneha Patel,DS-A,SEM-3,M1,C1,92,87,79,85,90,Completed,Completed,Pending,Completed,Completed,8.3,"Python,86.6
+DSA002,102,Arjun Verma,DS-A,SEM-3,M2,C1,78,65,88,72,70,Late,Completed,Completed,Pending,Completed,7.1,Machine Learning,74.6
+DSA003,103,Priya Mehta,DS-A,SEM-3,M3,C1,85,90,92,89,93,Completed,Pending,Completed,Completed,Completed,8.7,"Data Analysis,89.8
+DSA004,104,Rohit Singh,DS-A,SEM-3,M4,C1,69,72,80,68,75,Pending,Late,Completed,Pending,Pending,7.5,"SQL,72.8
+DSA005,105,Kiran Sharma,DS-A,SEM-3,M1,C1,95,89,93,97,92,Completed,Completed,Completed,Completed,Completed,9.1,"Python,93.2
+DSA006,106,Aman Roy,DS-A,SEM-3,M2,C1,82,76,85,80,78,Completed,Completed,Pending,Late,Completed,8.0,"Excel,80.2
+DSA007,107,Simran Das,DS-A,SEM-3,M3,C1,90,88,91,87,89,Completed,Completed,Completed,Completed,Completed,8.9,"Python,89.0
+DSA008,108,Vivek Khan,DS-A,SEM-3,M4,C1,75,68,70,73,72,Pending,Late,Pending,Completed,Completed,6.9,"R,71.6
+DSA009,109,Shreya Gupta,DS-A,SEM-3,M1,C1,88,92,86,91,90,Completed,Completed,Completed,Completed,Completed,9.0,"Deep Learning,89.4
+DSA010,110,Rahul Mishra,DS-A,SEM-3,M2,C1,80,72,77,79,74,Completed,Pending,Completed,Pending,Completed,7.8,"Machine Learning,76.4
+DSA011,111,Meena Kapoor,DS-A,SEM-3,M3,C1,85,89,84,83,88,Completed,Completed,Pending,Completed,Completed,8.4,"SQL,85.8
+DSA012,112,Varun Nair,DS-A,SEM-3,M4,C1,72,70,74,71,73,Late,Completed,Completed,Pending,Pending,7.2,"Statistics,72.0
+DSA013,113,Sanya Joshi,DS-A,SEM-3,M1,C1,93,95,92,94,96,Completed,Completed,Completed,Completed,Completed,9.2,"Python,94.0
+DSA014,114,Deepak Tiwari,DS-A,SEM-3,M2,C1,76,78,80,75,79,Pending,Pending,Completed,Late,Completed,7.3,"Excel,77.6
+DSA015,115,Anjali Mehta,DS-A,SEM-3,M3,C1,89,87,90,88,91,Completed,Completed,Completed,Completed,Completed,8.8,"Machine Learning,89.0
+DSA016,116,Kunal Bose,DS-A,SEM-3,M4,C1,67,72,70,69,68,Pending,Late,Pending,Pending,Pending,6.8,"R,69.2
+DSA017,117,Nisha Roy,DS-A,SEM-3,M1,C1,91,94,89,92,95,Completed,Completed,Completed,Completed,Completed,9.1,"Python,92.2
+DSA018,118,Rajesh Yadav,DS-A,SEM-3,M2,C1,79,81,76,77,80,Completed,Completed,Pending,Completed,Completed,7.6,"SQL,78.6
+DSA019,119,Shreya Das,DS-A,SEM-3,M3,C1,84,85,88,86,90,Completed,Pending,Completed,Completed,Completed,8.5,"Python,86.6
+DSA020,120,Mohit Reddy,DS-A,SEM-3,M4,C1,71,69,73,70,72,Late,Completed,Pending,Pending,Completed,7.0,"Statistics,71.0
+DSA021,121,Anjali Singh,DS-A,SEM-3,M1,C1,88,90,92,89,93,Completed,Completed,Completed,Completed,Completed,9.0,"Python,90.4
+DSA022,122,Varun Khan,DS-A,SEM-3,M2,C1,74,71,76,72,75,Pending,Late,Completed,Completed,Completed,7.2,"Excel,73.6
+DSA023,123,Pooja Iyer,DS-A,SEM-3,M3,C1,86,88,85,87,89,Completed,Completed,Completed,Completed,Completed,8.7,"Machine Learning,87.0
+DSA024,124,Rahul Ghosh,DS-A,SEM-3,M4,C1,70,73,75,71,72,Late,Completed,Pending,Late,Completed,7.1,"SQL,72.2
+DSA025,125,Sneha Kapoor,DS-A,SEM-3,M1,C1,94,92,95,93,96,Completed,Completed,Completed,Completed,Completed,9.3,"Python,94.0
+DSA026,126,Aman Mishra,DS-A,SEM-3,M2,C1,77,75,80,78,79,Pending,Completed,Completed,Completed,Completed,7.4,"SQL,77.8
+DSA027,127,Shreya Tiwari,DS-A,SEM-3,M3,C1,83,85,87,82,86,Completed,Completed,Pending,Completed,Completed,8.3,"Python,84.6
+DSA028,128,Vivek Patel,DS-A,SEM-3,M4,C1,68,70,72,69,71,Pending,Late,Completed,Pending,Pending,6.9,"R,70.0
+DSA029,129,Meena Das,DS-A,SEM-3,M1,C1,90,93,91,92,94,Completed,Completed,Completed,Completed,Completed,9.0,"Python,92.0
+DSA030,130,Arjun Roy,DS-A,SEM-3,M2,C1,73,74,77,75,76,Pending,Completed,Pending,Completed,Completed,7.3,"Statistics,75.0
+DSA031,131,Priya Bose,DS-A,SEM-3,M3,C1,87,89,90,88,91,Completed,Completed,Completed,Completed,Completed,8.8,"Python,89.0
+DSA032,132,Rohit Nair,DS-A,SEM-3,M4,C1,71,72,74,73,75,Late,Completed,Completed,Pending,Completed,7.0,"R,73.0
+DSA033,133,Sanya Kapoor,DS-A,SEM-3,M1,C1,92,94,93,91,95,Completed,Completed,Completed,Completed,Completed,9.2,"Python,93.0
+DSA034,134,Kunal Gupta,DS-A,SEM-3,M2,C1,75,77,79,74,78,Pending,Completed,Completed,Pending,Completed,7.5,"Excel,76.6
+DSA035,135,Nisha Verma,DS-A,SEM-3,M3,C1,89,91,88,87,92,Completed,Completed,Pending,Completed,Completed,8.9,"Python,89.4
+DSA036,136,Rajesh Mehta,DS-A,SEM-3,M4,C1,66,70,68,65,69,Pending,Late,Pending,Late,Pending,6.7,"R,67.6
+DSA037,137,Shreya Khan,DS-A,SEM-3,M1,C1,90,92,91,89,93,Completed,Completed,Completed,Completed,Completed,9.1,"Python,91.0
+DSA038,138,Mohit Iyer,DS-A,SEM-3,M2,C1,78,80,76,77,79,Completed,Completed,Pending,Completed,Completed,7.7,"SQL,78.0
+DSA039,139,Anjali Ghosh,DS-A,SEM-3,M3,C1,85,87,89,84,88,Completed,Completed,Completed,Completed,Completed,8.6,"Machine Learning,86.6
+DSA040,140,Mohit Kapoor,DS-A,SEM-3,M4,C1,82,77,85,81,80,Completed,Completed,Pending,Completed,Completed,8.0,"Deep Learning,81.0
+DSB041,141,Ankit Sharma,DS-B,SEM-3,M1,C2,88,84,90,85,89,Completed,Completed,Completed,Pending,Completed,8.6,"Python,87.2
+DSB042,142,Meera Gupta,DS-B,SEM-3,M2,C2,91,93,89,90,94,Completed,Completed,Completed,Completed,Completed,9.0,"Data Analysis,91.4
+DSB043,143,Sachin Verma,DS-B,SEM-3,M3,C2,77,74,80,72,76,Pending,Completed,Pending,Completed,Completed,7.4,"Excel,75.8
+DSB044,144,Ritika Nair,DS-B,SEM-3,M4,C2,85,87,83,86,89,Completed,Completed,Completed,Completed,Completed,8.5,"Machine Learning,86.0
+DSB045,145,Raj Malhotra,DS-B,SEM-3,M1,C2,70,72,75,68,71,Late,Pending,Completed,Late,Completed,7.0,"Statistics,71.2
+DSB046,146,Priya Yadav,DS-B,SEM-3,M2,C2,93,95,92,94,96,Completed,Completed,Completed,Completed,Completed,9.2,"Deep Learning,94.0
+DSB047,147,Ashish Singh,DS-B,SEM-3,M3,C2,82,79,85,81,83,Completed,Completed,Completed,Completed,Completed,8.0,"Python,82.0
+DSB048,148,Shruti Iyer,DS-B,SEM-3,M4,C2,68,70,66,71,69,Pending,Late,Pending,Pending,Pending,6.7,"R,68.8
+DSB049,149,Karan Das,DS-B,SEM-3,M1,C2,90,88,91,87,89,Completed,Completed,Completed,Completed,Completed,8.9,"Data Analysis,89.0
+DSB050,150,Sneha Roy,DS-B,SEM-3,M2,C2,74,77,79,75,73,Completed,Pending,Completed,Completed,Completed,7.5,"SQL,75.6
+DSB051,151,Amit Joshi,DS-B,SEM-3,M3,C2,86,89,87,84,90,Completed,Completed,Completed,Completed,Completed,8.7,"Python,87.2
+DSB052,152,Neha Kapoor,DS-B,SEM-3,M4,C2,72,74,70,73,75,Pending,Late,Pending,Completed,Completed,7.1,"Statistics,72.8
+DSB053,153,Arvind Mehta,DS-B,SEM-3,M1,C2,95,93,96,94,97,Completed,Completed,Completed,Completed,Completed,9.3,"Python,95.0
+DSB054,154,Divya Reddy,DS-B,SEM-3,M2,C2,76,79,74,78,77,Completed,Completed,Completed,Pending,Completed,7.6,"R,76.8
+DSB055,155,Rohan Ghosh,DS-B,SEM-3,M3,C2,88,85,89,87,90,Completed,Completed,Completed,Completed,Completed,8.8,"SQL,87.8
+DSB056,156,Sonal Das,DS-B,SEM-3,M4,C2,69,72,71,70,68,Pending,Late,Completed,Pending,Pending,6.9,"Excel,70.0
+DSB057,157,Alok Sen,DS-B,SEM-3,M1,C2,92,94,91,93,95,Completed,Completed,Completed,Completed,Completed,9.1,"Python,93.0
+DSB058,158,Kavya Sharma,DS-B,SEM-3,M2,C2,81,83,80,82,84,Completed,Completed,Completed,Completed,Completed,8.2,"Python,82.0
+DSB059,159,Manish Jain,DS-B,SEM-3,M3,C2,85,87,89,84,86,Completed,Completed,Completed,Completed,Completed,8.5,"Data Science,86.2
+DSB060,160,Pooja Sen,DS-B,SEM-3,M4,C2,71,74,70,72,73,Pending,Completed,Pending,Completed,Completed,7.2,"R,72.0
+DSB061,161,Rohit Sinha,DS-B,SEM-3,M1,C2,89,91,87,90,92,Completed,Completed,Completed,Completed,Completed,9.0,"Python,89.8
+DSB062,162,Nidhi Verma,DS-B,SEM-3,M2,C2,73,70,76,74,72,Completed,Pending,Completed,Completed,Completed,7.4,"Excel,73.0
+DSB063,163,Arjun Iyer,DS-B,SEM-3,M3,C2,86,89,84,87,88,Completed,Completed,Completed,Completed,Completed,8.7,"Python,86.8
+DSB064,164,Swati Khan,DS-B,SEM-3,M4,C2,70,73,75,72,71,Pending,Late,Completed,Pending,Completed,7.1,"SQL,72.2
+DSB065,165,Vikas Patel,DS-B,SEM-3,M1,C2,93,95,91,94,96,Completed,Completed,Completed,Completed,Completed,9.2,"Python,93.8
+DSB066,166,Anjali Nair,DS-B,SEM-3,M2,C2,78,80,77,79,81,Completed,Completed,Pending,Completed,Completed,7.8,"SQL,79.0
+DSB067,167,Karan Kapoor,DS-B,SEM-3,M3,C2,84,86,82,85,87,Completed,Completed,Completed,Completed,Completed,8.5,"Python,84.8
+DSB068,168,Priya Sen,DS-B,SEM-3,M4,C2,67,70,68,66,69,Pending,Late,Pending,Pending,Pending,6.8,"R,68.0
+DSB069,169,Anshul Gupta,DS-B,SEM-3,M1,C2,91,93,89,92,94,Completed,Completed,Completed,Completed,Completed,9.1,"Python,91.8
+DSB070,170,Simran Das,DS-B,SEM-3,M2,C2,75,77,79,76,74,Completed,Completed,Completed,Completed,Completed,7.6,"Statistics,76.2
+DSB071,171,Ajay Rathi,DS-B,SEM-3,M3,C2,87,89,85,88,90,Completed,Completed,Completed,Completed,Completed,8.8,"Python,87.8
+DSB072,172,Shalini Roy,DS-B,SEM-3,M4,C2,72,74,71,73,70,Completed,Late,Completed,Pending,Completed,7.2,"Excel,72.0
+DSB073,173,Harsh Vardhan,DS-B,SEM-3,M1,C2,94,92,95,93,96,Completed,Completed,Completed,Completed,Completed,9.3,"Python,94.0
+DSB074,174,Meena Yadav,DS-B,SEM-3,M2,C2,76,78,74,77,79,Pending,Completed,Completed,Completed,Completed,7.5,"SQL,76.8
+DSB075,175,Rajeev Menon,DS-B,SEM-3,M3,C2,88,85,89,87,90,Completed,Completed,Completed,Completed,Completed,8.8,"Python,87.8
+DSB076,176,Sanya Arora,DS-B,SEM-3,M4,C2,65,68,70,67,69,Pending,Late,Pending,Pending,Pending,6.6,"Excel,67.8
+DSB077,177,Arvind Tiwari,DS-B,SEM-3,M1,C2,90,92,89,91,93,Completed,Completed,Completed,Completed,Completed,9.1,"Python,91.0
+DSB078,178,Nisha Das,DS-B,SEM-3,M2,C2,79,81,77,80,82,Completed,Completed,Completed,Completed,Completed,7.9,"SQL,79.8
+DSB079,179,Alisha Khan,DS-B,SEM-3,M3,C2,85,87,83,86,84,Completed,Completed,Completed,Completed,Completed,8.4,"Python,85.0
+DSB080,180,Devendra Joshi,DS-B,SEM-3,M4,C2,81,79,82,80,78,Completed,Completed,Completed,Completed,Completed,8.0,"SQL,80.0
+DSC081,181,Rajesh Yadav,DS-C,SEM-3,M1,C3,87,84,86,88,85,Completed,Completed,Completed,Completed,Completed,8.5,"Python,86.0
+DSC082,182,Shreya Nair,DS-C,SEM-3,M2,C3,92,94,91,90,93,Completed,Completed,Completed,Completed,Completed,9.1,"Data Analysis,92.0
+DSC083,183,Aditya Sharma,DS-C,SEM-3,M3,C3,78,75,80,77,76,Pending,Completed,Completed,Pending,Completed,7.6,"Excel,77.2
+DSC084,184,Kritika Das,DS-C,SEM-3,M4,C3,84,86,83,85,87,Completed,Completed,Completed,Completed,Completed,8.4,"Python,85.0
+DSC085,185,Vinay Kumar,DS-C,SEM-3,M1,C3,69,71,73,68,70,Pending,Late,Pending,Completed,Completed,6.9,"SQL,70.2
+DSC086,186,Smriti Roy,DS-C,SEM-3,M2,C3,94,96,92,95,93,Completed,Completed,Completed,Completed,Completed,9.3,"Deep Learning,94.0
+DSC087,187,Ritesh Gupta,DS-C,SEM-3,M3,C3,83,81,84,82,80,Completed,Completed,Completed,Completed,Completed,8.2,"Python,82.0
+DSC088,188,Ananya Sen,DS-C,SEM-3,M4,C3,70,68,72,69,71,Pending,Pending,Completed,Pending,Completed,7.0,"R,70.0
+DSC089,189,Siddharth Menon,DS-C,SEM-3,M1,C3,90,92,88,89,91,Completed,Completed,Completed,Completed,Completed,9.0,"Python,90.0
+DSC090,190,Nikita Singh,DS-C,SEM-3,M2,C3,75,78,74,76,77,Completed,Completed,Completed,Completed,Completed,7.6,"SQL,76.0
+DSC091,191,Abhinav Das,DS-C,SEM-3,M3,C3,86,88,87,85,89,Completed,Completed,Completed,Completed,Completed,8.6,"Python,87.0
+DSC092,192,Isha Kapoor,DS-C,SEM-3,M4,C3,73,70,74,72,75,Pending,Late,Completed,Completed,Completed,7.3,"Statistics,72.8
+DSC093,193,Mayank Patel,DS-C,SEM-3,M1,C3,96,94,95,93,97,Completed,Completed,Completed,Completed,Completed,9.4,"Python,95.0
+DSC094,194,Divya Mehta,DS-C,SEM-3,M2,C3,77,79,76,78,80,Completed,Completed,Completed,Completed,Completed,7.8,"R,78.0
+DSC095,195,Kunal Joshi,DS-C,SEM-3,M3,C3,89,87,88,90,86,Completed,Completed,Completed,Completed,Completed,8.8,"SQL,88.0
+DSC096,196,Sweta Rani,DS-C,SEM-3,M4,C3,71,74,70,73,72,Pending,Pending,Completed,Completed,Completed,7.2,"Excel,72.0
+DSC097,197,Saurabh Iyer,DS-C,SEM-3,M1,C3,91,93,92,94,90,Completed,Completed,Completed,Completed,Completed,9.1,"Python,92.0
+DSC098,198,Pallavi Khan,DS-C,SEM-3,M2,C3,82,81,83,80,84,Completed,Completed,Completed,Completed,Completed,8.2,"Python,82.0
+DSC099,199,Naveen Tiwari,DS-C,SEM-3,M3,C3,85,86,84,87,83,Completed,Completed,Completed,Completed,Completed,8.5,"Python,85.0
+DSC100,200,Aarti Sinha,DS-C,SEM-3,M4,C3,72,70,74,73,71,Completed,Pending,Completed,Completed,Completed,7.2,"R,72.0
+DSC101,201,Deepak Yadav,DS-C,SEM-3,M1,C3,88,90,87,89,91,Completed,Completed,Completed,Completed,Completed,8.9,"Python,89.0
+DSC102,202,Rekha Sharma,DS-C,SEM-3,M2,C3,74,77,75,73,76,Completed,Completed,Pending,Completed,Completed,7.5,"Excel,75.0
+DSC103,203,Harish Malhotra,DS-C,SEM-3,M3,C3,87,89,85,86,88,Completed,Completed,Completed,Completed,Completed,8.7,"Python,87.0
+DSC104,204,Anjali Das,DS-C,SEM-3,M4,C3,70,72,71,73,69,Pending,Late,Completed,Completed,Pending,7.1,"SQL,71.0
+DSC105,205,Sandeep Kumar,DS-C,SEM-3,M1,C3,94,92,95,93,96,Completed,Completed,Completed,Completed,Completed,9.3,"Python,94.0
+DSC106,206,Pooja Reddy,DS-C,SEM-3,M2,C3,76,78,77,79,75,Completed,Completed,Completed,Completed,Completed,7.7,"SQL,77.0
+DSC107,207,Arun Singh,DS-C,SEM-3,M3,C3,89,88,87,90,86,Completed,Completed,Completed,Completed,Completed,8.8,"Python,88.0
+DSC108,208,Ritika Sen,DS-C,SEM-3,M4,C3,65,67,66,68,69,Pending,Pending,Pending,Pending,Pending,6.7,"Excel,67.0
+DSC109,209,Varun Joshi,DS-C,SEM-3,M1,C3,92,93,91,94,95,Completed,Completed,Completed,Completed,Completed,9.2,"Python,93.0
+DSC110,210,Nidhi Kapoor,DS-C,SEM-3,M2,C3,80,82,81,83,79,Completed,Completed,Completed,Completed,Completed,8.1,"SQL,81.0
+DSC111,211,Aakash Verma,DS-C,SEM-3,M3,C3,86,84,87,85,83,Completed,Completed,Completed,Completed,Completed,8.5,"Python,85.0
+DSC112,212,Shraddha Menon,DS-C,SEM-3,M4,C3,73,70,74,72,75,Completed,Completed,Completed,Pending,Completed,7.3,"R,72.8
+DSC113,213,Gaurav Singh,DS-C,SEM-3,M1,C3,95,96,94,93,97,Completed,Completed,Completed,Completed,Completed,9.4,"Python,95.0
+DSC114,214,Priya Das,DS-C,SEM-3,M2,C3,78,77,76,79,80,Completed,Completed,Completed,Completed,Completed,7.8,"Excel,78.0
+DSC115,215,Rajeev Sinha,DS-C,SEM-3,M3,C3,90,88,91,89,87,Completed,Completed,Completed,Completed,Completed,8.9,"Python,89.0
+DSC116,216,Sapna Roy,DS-C,SEM-3,M4,C3,71,73,72,70,74,Pending,Completed,Completed,Completed,Completed,7.2,"R,72.0
+DSC117,217,Alok Pandey,DS-C,SEM-3,M1,C3,93,92,94,91,95,Completed,Completed,Completed,Completed,Completed,9.3,"Python,93.0
+DSC118,218,Roshni Iyer,DS-C,SEM-3,M2,C3,79,81,80,82,83,Completed,Completed,Completed,Completed,Completed,8.0,"SQL,81.0
+DSC119,219,Shubham Ghosh,DS-C,SEM-3,M3,C3,87,89,86,85,88,Completed,Completed,Completed,Completed,Completed,8.7,"Python,87.0
+DSC120,220,Nisha Jain,DS-C,SEM-3,M4,C3,74,72,75,73,71,Completed,Pending,Completed,Completed,Completed,7.4,"Excel,73.0
+DSD121,221,Ankit Sharma,DS-D,SEM-3,M1,C4,88,86,87,89,85,Completed,Completed,Completed,Completed,Completed,8.7,"Python,87.0
+DSD122,222,Megha Iyer,DS-D,SEM-3,M2,C4,92,94,91,93,95,Completed,Completed,Completed,Completed,Completed,9.2,"Data Science,93.0
+DSD123,223,Prashant Verma,DS-D,SEM-3,M3,C4,77,75,78,76,74,Pending,Completed,Completed,Pending,Completed,7.6,"Excel,76.0
+DSD124,224,Sonali Nair,DS-D,SEM-3,M4,C4,85,87,84,83,86,Completed,Completed,Completed,Completed,Completed,8.5,"Python,85.0
+DSD125,225,Aman Gupta,DS-D,SEM-3,M1,C4,69,71,70,72,68,Pending,Late,Completed,Completed,Completed,6.9,"SQL,70.0
+DSD126,226,Ritika Sharma,DS-D,SEM-3,M2,C4,95,93,94,92,96,Completed,Completed,Completed,Completed,Completed,9.4,"Deep Learning,94.0
+DSD127,227,Sachin Rao,DS-D,SEM-3,M3,C4,84,82,85,81,83,Completed,Completed,Completed,Completed,Completed,8.3,"Python,83.0
+DSD128,228,Ankita Das,DS-D,SEM-3,M4,C4,71,69,73,70,72,Pending,Completed,Pending,Completed,Completed,7.1,"R,71.0
+DSD129,229,Rahul Yadav,DS-D,SEM-3,M1,C4,90,92,91,89,93,Completed,Completed,Completed,Completed,Completed,9.0,"Python,91.0
+DSD130,230,Priyanka Sen,DS-D,SEM-3,M2,C4,76,74,78,77,75,Completed,Completed,Completed,Completed,Completed,7.6,"SQL,76.0
+DSD131,231,Suresh Kumar,DS-D,SEM-3,M3,C4,87,89,88,90,86,Completed,Completed,Completed,Completed,Completed,8.8,"Python,88.0
+DSD132,232,Neha Kapoor,DS-D,SEM-3,M4,C4,73,71,72,70,74,Pending,Completed,Completed,Completed,Completed,7.2,"Statistics,72.0
+DSD133,233,Manoj Tiwari,DS-D,SEM-3,M1,C4,96,94,95,97,93,Completed,Completed,Completed,Completed,Completed,9.5,"Python,95.0
+DSD134,234,Komal Mehta,DS-D,SEM-3,M2,C4,79,81,78,77,80,Completed,Completed,Completed,Completed,Completed,7.9,"R,79.0
+DSD135,235,Ajay Singh,DS-D,SEM-3,M3,C4,88,86,89,87,85,Completed,Completed,Completed,Completed,Completed,8.7,"SQL,87.0
+DSD136,236,Simran Roy,DS-D,SEM-3,M4,C4,70,72,69,71,73,Pending,Pending,Completed,Completed,Completed,7.1,"Excel,71.0
+DSD137,237,Rohit Malhotra,DS-D,SEM-3,M1,C4,91,93,92,90,94,Completed,Completed,Completed,Completed,Completed,9.1,"Python,92.0
+DSD138,238,Sneha Reddy,DS-D,SEM-3,M2,C4,83,81,82,84,80,Completed,Completed,Completed,Completed,Completed,8.2,"Python,82.0
+DSD139,239,Devendra Joshi,DS-D,SEM-3,M3,C4,86,84,87,85,83,Completed,Completed,Completed,Completed,Completed,8.5,"Python,85.0
+DSD140,240,Anushka Jain,DS-D,SEM-3,M4,C4,74,72,73,75,71,Completed,Completed,Completed,Pending,Completed,7.3,"R,73.0
+DSD141,241,Karthik Menon,DS-D,SEM-3,M1,C4,89,87,88,86,90,Completed,Completed,Completed,Completed,Completed,8.8,"Python,88.0
+DSD142,242,Pooja Yadav,DS-D,SEM-3,M2,C4,75,73,74,76,72,Completed,Completed,Pending,Completed,Completed,7.4,"Excel,74.0
+DSD143,243,Sanjay Verma,DS-D,SEM-3,M3,C4,90,92,91,93,89,Completed,Completed,Completed,Completed,Completed,9.0,"Python,91.0
+DSD144,244,Nikita Nair,DS-D,SEM-3,M4,C4,68,70,67,69,71,Pending,Late,Completed,Completed,Pending,6.9,"SQL,69.0
+DSD145,245,Ashish Patel,DS-D,SEM-3,M1,C4,93,95,94,96,92,Completed,Completed,Completed,Completed,Completed,9.4,"Python,94.0
+DSD146,246,Shruti Iyer,DS-D,SEM-3,M2,C4,78,80,79,81,77,Completed,Completed,Completed,Completed,Completed,7.9,"SQL,79.0
+DSD147,247,Varun Sharma,DS-D,SEM-3,M3,C4,88,90,89,91,87,Completed,Completed,Completed,Completed,Completed,8.9,"Python,89.0
+DSD148,248,Anjali Singh,DS-D,SEM-3,M4,C4,65,67,66,64,68,Pending,Pending,Pending,Pending,Pending,6.6,"Excel,66.0
+DSD149,249,Amit Yadav,DS-D,SEM-3,M1,C4,92,94,91,95,93,Completed,Completed,Completed,Completed,Completed,9.3,"Python,93.0
+DSD150,250,Tanya Kapoor,DS-D,SEM-3,M2,C4,80,82,81,79,83,Completed,Completed,Completed,Completed,Completed,8.1,"SQL,81.0
+DSD151,251,Himanshu Das,DS-D,SEM-3,M3,C4,87,85,88,86,84,Completed,Completed,Completed,Completed,Completed,8.6,"Python,86.0
+DSD152,252,Sapna Singh,DS-D,SEM-3,M4,C4,72,74,71,73,75,Completed,Pending,Completed,Completed,Completed,7.3,"R,73.0
+DSD153,253,Naveen Rao,DS-D,SEM-3,M1,C4,95,97,94,96,92,Completed,Completed,Completed,Completed,Completed,9.5,"Python,94.8
+DSD154,254,Pallavi Sinha,DS-D,SEM-3,M2,C4,77,75,78,76,79,Completed,Completed,Completed,Completed,Completed,7.7,"Excel,77.0
+DSD155,255,Raj Malhotra,DS-D,SEM-3,M3,C4,89,91,90,88,92,Completed,Completed,Completed,Completed,Completed,8.9,"Python,90.0
+DSD156,256,Nidhi Sharma,DS-D,SEM-3,M4,C4,70,72,71,73,69,Pending,Completed,Completed,Completed,Completed,7.1,"R,71.0
+DSD157,257,Arvind Tiwari,DS-D,SEM-3,M1,C4,94,92,95,93,96,Completed,Completed,Completed,Completed,Completed,9.4,"Python,94.0
+DSD158,258,Soniya Menon,DS-D,SEM-3,M2,C4,79,81,80,82,78,Completed,Completed,Completed,Completed,Completed,8.0,"SQL,80.0
+DSD159,259,Ashutosh Singh,DS-D,SEM-3,M3,C4,87,85,86,88,84,Completed,Completed,Completed,Completed,Completed,8.6,"Python,86.0
+DSD160,260,Shalini Jain,DS-D,SEM-3,M4,C4,73,75,74,72,76,Completed,Completed,Completed,Completed,Completed,7.4,"Excel,74.0
